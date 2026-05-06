@@ -1,5 +1,5 @@
 // Insecure ATM Sample Code for SonarCloud Testing
-// This file intentionally contains vulnerabilities for academic scanning purposes.
+// This file intentionally contains vulnerabilities for academic scanning purposes
 
 import os
 
